@@ -1,0 +1,16 @@
+FONT Ro
+LWIDTH   5.
+TIME OFF
+LIne ON    1
+MArk Size   1.2 ON   1
+LIne ON    2
+MArk    3 ON   2
+MArk Size   1.2 ON   2
+LOC  0 0 1 1
+LAB  10 LIN 0 1 JUS Lef
+LAB  10 POS 0 0 " "
+LAB  F  Spectral Line Data
+LAB  X  Channel number
+LAB  Y  Signal strength (mK)
+R    Y   -1.88459992 2.8446002
+R    X   -0.575000048 65.5749969
